@@ -1,3 +1,44 @@
+# ESPN Fantasy Football Commissioner Tool
+A collaboration between Andrew Hair and Tyler Allen
+
+
+steps to get working
+1. clone this repo
+2. in your terminal, run `npm install`
+
+for webpage:
+3. in your terminal, run `npm start`
+4. in your browser, navigate to `http://localhost:3000/`
+
+for server:
+3. in your terminal, navigate to backend folder `cd backend`
+4. in your terminal, run `node server`
+5. in your browser, navigate to `http://localhost:4000/`
+
+
+
+The webpage will refresh on every file save while the server you must cancelled and restarted. To cancel the server, press control+C while in the terminal. To restart, simply run `node server` again.
+
+
+
+
+
+
+
+
+
+
+A collaboration between Andrew Hair and Tyler Allen.
+
+
+
+
+#######################################################################
+
+
+Below is the out of the box readme from create react app. Keeping for now, will delete when this project is fully fleshed out.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
