@@ -1,11 +1,9 @@
 # ESPN Fantasy Football Commissioner Tool
-A collaboration between Andrew Hair and Tyler Allen
-
 
 ## clone repo and install dependencies
-1. clone this repo `https://github.com/TylerJAllen/espn-ff-commissioner-tool.git`
-2. navigate to the directory `cd espn-ff-commissioner-tool`
-3. run `npm install`
+- clone this repo `https://github.com/TylerJAllen/espn-ff-commissioner-tool.git`
+- navigate to the directory `cd espn-ff-commissioner-tool`
+- run `npm install`
 
 ## view webpage locally:
 - run `npm start`
