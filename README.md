@@ -2,35 +2,27 @@
 A collaboration between Andrew Hair and Tyler Allen
 
 
-steps to get working
-1. clone this repo
-2. in your terminal, run `npm install`
+## clone repo and install dependencies
+1. clone this repo `https://github.com/TylerJAllen/espn-ff-commissioner-tool.git`
+2. navigate to the directory `cd espn-ff-commissioner-tool`
+3. run `npm install`
 
-for webpage:
-3. in your terminal, run `npm start`
-4. in your browser, navigate to `http://localhost:3000/`
+## view webpage locally:
+- run `npm start`
+- in your browser, navigate to `http://localhost:3000/`
+- the webpage auto refreshes on most file saves
 
-for server:
-3. in your terminal, navigate to backend folder `cd backend`
-4. in your terminal, run `node server`
-5. in your browser, navigate to `http://localhost:4000/`
-
-
-
-The webpage will refresh on every file save while the server you must cancelled and restarted. To cancel the server, press control+C while in the terminal. To restart, simply run `node server` again.
-
-
-
-
+## view server locally:
+- navigate to backend folder `cd backend`
+- run `node server`
+- If successful, the following confirmation message will appear in the terminal `Server is running on Port: 4000`
+- depending where outputs are expected, they will either appear in the terminal or `http://localhost:4000/`
+- The server does not auto refresh on file save requiring the server to be cancelled and restarted to view changes.
+  - to cancel the server, press "control + C" while in the terminal
+  - to restart the server, run `node server`
 
 
-
-
-
-
-A collaboration between Andrew Hair and Tyler Allen.
-
-
+A collaboration between **[Andrew Hair](https://github.com/TheSolidHair)** and **[Tyler Allen](https://github.com/TylerJAllen)**.
 
 
 #######################################################################
