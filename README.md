@@ -25,8 +25,9 @@ A collaboration between **[Andrew Hair](https://github.com/TheSolidHair)** and *
 
 #######################################################################
 
-
 Below is the out of the box readme from create react app. Keeping for now, will delete when this project is fully fleshed out.
+
+#######################################################################
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
